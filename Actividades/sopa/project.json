@@ -1,0 +1,41 @@
+{
+  "title": "Mio",
+  "date": "4/01/25",
+  "description": {},
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "mio.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 10,
+  "mediaFiles": 11,
+  "totalSize": 355243,
+  "files": [
+    "JClic\\Rompecabezas/banner_adoptante_gatos-resized-mirompecabezas.jpg",
+    "JClic\\Rompecabezas/banner_adoptante_gatos-resized.jpg",
+    "JClic\\Rompecabezas/mirompecabezas.jclic",
+    "JClic\\Rompecabezas/mirompecabezas.jclic.js",
+    "Rompecabezas/banner_adoptante_gatos-resized.jpg",
+    "Rompecabezas/mirompecabezas.jclic",
+    "Rompecabezas/mirompecabezas.jclic.js",
+    "favicon.ico",
+    "icon-192.png",
+    "icon-72.png",
+    "imsmanifest.xml",
+    "index.html",
+    "lizettemoisen/lizettemoisen.jclic",
+    "lizettemoisen/lizettemoisen.jclic.js",
+    "lizettemoisen/proteger-a-los-animales-1024x654-resized.jpg",
+    "lizettemoisen/text_to_image_v6_poster_01_f038887d26-resized.jpg",
+    "lizettemoisen/uron-resized.jpg",
+    "mio.jclic",
+    "mio.jclic.js",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json"
+  ]
+}

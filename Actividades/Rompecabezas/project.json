@@ -1,0 +1,33 @@
+{
+  "title": "MiRompecabezas",
+  "date": "14/11/24",
+  "levelCodes": [
+    "BTX"
+  ],
+  "levels": {
+    "es": "Bachillerato (16-18)"
+  },
+  "description": {
+    "es": ""
+  },
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "cover": "banner_adoptante_gatos-resized.jpg",
+  "thumbnail": "banner_adoptante_gatos-resized.jpg",
+  "mainFile": "mirompecabezas.jclic",
+  "activities": 2,
+  "mediaFiles": 1,
+  "totalSize": 46923,
+  "files": [
+    "banner_adoptante_gatos-resized.jpg",
+    "imsmanifest.xml",
+    "index.html",
+    "mirompecabezas.jclic",
+    "mirompecabezas.jclic.js",
+    "project.json"
+  ]
+}
